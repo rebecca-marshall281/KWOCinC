@@ -2,6 +2,8 @@
 
 The goal of this assignment was to read through a text file and print out an alphabetical list of every word found in the input file with its corresponding line and line number. 
 
+The assigment description can be found [HERE](./a3_writeup.pdf).
+
 # Description of files in this directory.
 
 The files here are starter files for UVic SENG 265, Spring 2020
