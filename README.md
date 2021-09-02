@@ -28,4 +28,4 @@ result of using this code.
 
 # How to run the Program
 
-Run the following command in the terminal: ./kwoc3 <INPUT-FILE> (-e <EXCEPTION-FILE>)
+Run the following command in the terminal: `./kwoc3 <INPUT-FILE> (-e <EXCEPTION-FILE>)`
