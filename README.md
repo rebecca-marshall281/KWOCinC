@@ -32,6 +32,6 @@ Compile the program by the running the `makefile`.
 
 Then run the following command in the terminal: `./kwoc3 <INPUT-FILE> (-e <EXCEPTION-FILE>)`
 
-A list of the test cases are described in [TESTS.md](./KWOCinC/blob/master/TESTS.md).
+A list of the test cases are described in [TESTS.md](./TESTS.md).
 
 To determine if the program generated the correct output, use the following command: `kwoc3 <INPUT-FILE> (-e <EXCEPTION-FILE>) | diff <OUTPUT-FILE> -`
